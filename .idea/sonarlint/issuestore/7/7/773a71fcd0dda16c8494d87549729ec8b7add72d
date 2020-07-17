@@ -1,0 +1,19 @@
+
+Q
+java:S1141ã"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+]
+java:S2259Q"BA "NullPointerException" could be thrown; "list" is nullable here.(ž™Êóûÿÿÿÿ
+£
+java:S1598"ŒThis file "QueryParser.java" should be located in "com/test/spark/streaming" directory, not in "/home/inct-sandeshmendan/IdeaProjects/test".(ìÐ¢¦
+W
+java:S1854ü"@Remove this useless assignment to local variable "deleteTables".(‹¦î…
+H
+java:S1481ü"1Remove this unused "deleteTables" local variable.(‹¦î…
+V	java:S125"<This block of commented-out lines of code should be removed.(žÝÑÌýÿÿÿÿ
+V	java:S125F"<This block of commented-out lines of code should be removed.(àñœ‹ùÿÿÿÿ
+V	java:S125J"<This block of commented-out lines of code should be removed.(©¦û¤ùÿÿÿÿ
+V	java:S125S"<This block of commented-out lines of code should be removed.(·’¸Àûÿÿÿÿ
+P	java:S125]"<This block of commented-out lines of code should be removed.(Øó¨W
+W	java:S125‘"<This block of commented-out lines of code should be removed.(‚´ë”üÿÿÿÿ
+W	java:S125è"<This block of commented-out lines of code should be removed.( ùõãùÿÿÿÿ
+R	java:S125ý"<This block of commented-out lines of code should be removed.(ùïˆè

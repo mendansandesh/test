@@ -1,0 +1,14 @@
+
+ƒ
+java:S11924"mDefine a constant instead of duplicating this literal "Exception while parsing the http serviceUrl " 3 times.(„êà
+v
+java:S11924"`Define a constant instead of duplicating this literal " from the agent, Hence ignoring" 3 times.(„êà
+\
+java:S2259'"AA "NullPointerException" could be thrown; "url" is nullable here.(ò™¨úÿÿÿÿ
+¡
+java:S1598"ŠThis file "DBConnUrl.java" should be located in "com/test/spark/streaming" directory, not in "/home/inct-sandeshmendan/IdeaProjects/test".(ìĞ¢¦
+7	java:S131""Add a default case to this switch.(úåÍ
+V	java:S125"<This block of commented-out lines of code should be removed.(å’»…ıÿÿÿÿ
+V	java:S125$"<This block of commented-out lines of code should be removed.( —Ñûùÿÿÿÿ
+Y
+java:S1144+">Remove this unused private "getHttpServerNameAndPort3" method.(ËÇÜÒÿÿÿÿÿ
